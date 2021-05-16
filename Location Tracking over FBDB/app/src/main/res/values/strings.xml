@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Location Tracker over FBDB</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="latitude" />
+    <string name="longitude" />
+    <string name="update" />
+    <string name="edittext">latitude</string>
+    <string name="edittext2">longitude</string>
+    <string name="updatebutton">update</string>
+</resources>
